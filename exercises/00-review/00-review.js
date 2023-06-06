@@ -30,8 +30,6 @@ const greet = (name) => {
  * highestNumber([-1, -5, -4]) // -1
  * 
  * 
- * math.max(highestNumber)
- * 
  **
 
  //return the value 10 for the first problem
