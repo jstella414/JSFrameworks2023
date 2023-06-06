@@ -28,13 +28,19 @@ const greet = (name) => {
  * @example
  * highestNumber([1, 10, 2, 3, 4]) // 10
  * highestNumber([-1, -5, -4]) // -1
- *
- **/
+ * 
+ * 
+ * math.max(highestNumber)
+ * 
+ **
+
+ //return the value 10 for the first problem
+//if you see a green check mark instead of a red you get it correct
 
 const highestNumber = (array) => {
   // Write your answer here
 };
-
+//return something in the end
 /**
  * Combine an array by using the spread operator
  * @param  {array} array1
